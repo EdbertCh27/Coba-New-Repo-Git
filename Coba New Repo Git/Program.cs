@@ -6,7 +6,7 @@ namespace Coba_New_Repo_Git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Test New Repo Git\nThanks !");
         }
     }
 }
